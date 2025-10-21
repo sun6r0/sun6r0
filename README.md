@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=600&center=true&vCenter=true&width=720&lines=SDET+%E2%80%94+Java%2C+RestAssured%2C+JUnit%2C+Allure;API%2FDB+testing%2C+CI%2FCD%2C+Reporting;Делаю+тесты+быстрыми%2C+надёжными+и+наглядными" alt="typing" />
 </p>
 
-<h1 align="center">Привет, я Дарья Швайко — SDET-специалист</h1>
+<h1 align="center">Привет, я Дарья — SDET-специалист</h1>
 
 ## Коротко обо мне
 - 3+ лет коммерческого опыта в тестировании бэкенда
