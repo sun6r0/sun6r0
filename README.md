@@ -1,15 +1,14 @@
 <!-- Заголовок с печатающейся строкой -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=600&center=true&vCenter=true&width=720&lines=SDET+%E2%80%94+Java%2C+RestAssured%2C+Allure;API%2FUI%2FDB+testing%2C+CI%2FCD%2C+Reporting;Делаю+тесты+быстрыми%2C+надёжными+и+наглядными" alt="typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=600&center=true&vCenter=true&width=720&lines=SDET+%E2%80%94+Java%2C+RestAssured%2C+JUnit%2C+Allure;API%2FUI%2FDB+testing%2C+CI%2FCD%2C+Reporting;Делаю+тесты+быстрыми%2C+надёжными+и+наглядными" alt="typing" />
 </p>
 
-<h1 align="center">Привет, я <a href="https://github.com/YOUR_USERNAME">YOUR_NAME</a> — SDET</h1>
+<h1 align="center">Привет, я Дарья Швайко — SDET-специалист</h1>
 
 
 ### QA Automation Engineer (SDET)
 
-I am a Software Development Engineer in Test (SDET) with 5 years of commercial experience in developing, and maintaining test automation projects. My passion lies in building reliable and scalable automation solutions to ensure high software quality and accelerate delivery processes.
-
+Я Software Development Engineer in Test (SDET) с 5 годами коммерческого опыта. Люблю стабильные пайплайны, чистую архитектуру тестов и понятные графики.
 ---
 
 ### 🛠️ Tech Stack & Skills
