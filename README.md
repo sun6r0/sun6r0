@@ -6,6 +6,7 @@
 <p align="center">
   <img src="https://thvnext.bing.com/th/id/ODF.2HaRnSLPNaJoP-Y…h=32&qlt=90&pcl=fffffa&o=6&cb=12&pid=1.2&ucfimg=1" title="IDEA" alt="IDEA" width="40" height="40"/>
   <img src="https://rest-assured.io/img/logo-transparent.png" title="RestAssured" alt="RestAssured" width="40" height="40"/>
+  <img src="https://www.flaticon.com/ru/free-icon/java_3291669?term=java&page=1&position=3&origin=search&related_id=3291669" title="Java" alt="Java" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>
   <img src="https://static-www.elastic.co/v3/assets/bltefdd0b5…5d082a5e97f2babb5af907ee/logo-kibana-32-color.svg" title="Kibana" alt="Kibana" width="40" height="40"/>
   <img src="https://thvnext.bing.com/th/id/ODF.tv554W-iNtIzSZY…h=32&qlt=91&pcl=fffffa&o=6&cb=12&pid=1.2&ucfimg=1" title="QaTools ТестОпс" alt="ТестОпс" width="40" height="40"/>
