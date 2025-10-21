@@ -49,6 +49,10 @@
 
 ---
 
+![Codewars](https://github.r2v.ch/codewars?user=Sunbr0)
+
+---
+
 ## Проекты (пин-карточки)
 
 <p align="left">
