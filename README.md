@@ -27,6 +27,10 @@ I am a Software Development Engineer in Test (SDET) with 5 years of commercial e
 <br>
 <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white" alt="Kibana">
 
+**Test Reporting & Tools**
+<br>
+<img src="https://img.shields.io/badge/Allure-FF4F58?style=for-the-badge&logo=allure&logoColor=white" alt="Allure">
+
 ---
 
 ### 📈 GitHub Stats
