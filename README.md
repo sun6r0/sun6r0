@@ -48,6 +48,16 @@
 
 ---
 
+## Проекты (пин-карточки)
+
+<p align="left">
+  <a href="https://github.com/sun6r0/kotlin-course">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sun6r0&repo=kotlin-course&theme=default" />
+  </a>
+</p>
+
+---
+
 ### 📈 GitHub статистика
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sun6r0&show_icons=true&theme=default)
