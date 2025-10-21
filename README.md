@@ -49,6 +49,18 @@
 
 ---
 
+## Сертификаты и курсы
+
+<details>
+<summary>развернуть</summary>
+
+[![ISTQB Foundation Level](https://img.shields.io/badge/ISTQB_Foundation-0B4B7D?style=for-the-badge&logo=testinglibrary&logoColor=white)](#)
+*Сертификат доступен по запросу*
+
+</details>
+
+---
+
 ![Codewars](https://github.r2v.ch/codewars?user=Sunbr0)
 
 ---
