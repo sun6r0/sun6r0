@@ -31,9 +31,6 @@ I am a Software Development Engineer in Test (SDET) with 5 years of commercial e
 
 ### 📈 GitHub Stats
 
-(Этот раздел можно удалить, если не хотите показывать статистику.
-Для его работы нужен специальный сервис, например, https://github.com/anuraghazra/github-readme-stats)
-
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sun6r0&show_icons=true&theme=default)
 
 ---
