@@ -14,6 +14,23 @@
 
 ### 🛠️ Технологии и инструменты
 
+<div>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
+  <img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" alt="Maven">
+  <img src="https://img.shields.io/badge/RestAssured-000000?style=for-the-badge&logo=rest-assured&logoColor=white" alt="RestAssured">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit5">
+  <img src="https://img.shields.io/badge/TestNG-009688?style=for-the-badge&logo=testng&logoColor=white" alt="TestNG">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
+  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white" alt="Kibana">
+  <img src="https://img.shields.io/badge/Allure-FF4F58?style=for-the-badge&logo=allure&logoColor=white" alt="Allure">
+  <img src="https://img.shields.io/badge/TestOps-009688?style=for-the-badge&logo=testin&logoColor=white" alt="TestOps">
+  <img src="https://img.shields.io/badge/Kaiten-4B9AFA?style=for-the-badge&logo=trello&logoColor=white" alt="Kaiten">
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
+</div>
+
 **Разработка**
 <br>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
