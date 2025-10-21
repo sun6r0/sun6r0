@@ -14,10 +14,22 @@
 
 ### 🛠️ Технологии и инструменты
 
-<br>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" title="Java">
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" title="IntelliJ IDEA">
 <img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white" alt="Maven" title="Maven">
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab" title="GitLab">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" title="Git">
+<img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub" title="GitHub">
+<img src="https://img.shields.io/badge/RestAssured-000000?style=flat-square&logo=rest-assured&logoColor=white" alt="RestAssured" title="RestAssured">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" title="Postman">
+<img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit5" title="JUnit5">
+<img src="https://img.shields.io/badge/TestNG-009688?style=flat-square&logo=testng&logoColor=white" alt="TestNG" title="TestNG">
+<img src="https://img.shields.io/badge/Allure-FF4F58?style=flat-square&logo=allure&logoColor=white" alt="Allure" title="Allure">
+<img src="https://img.shields.io/badge/TestOps-009688?style=flat-square&logo=testin&logoColor=white" alt="TestOps" title="TestOps">
+<img src="https://img.shields.io/badge/Kaiten-4B9AFA?style=flat-square&logo=trello&logoColor=white" alt="Kaiten" title="Kaiten">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" title="PostgreSQL">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" title="Oracle">
+<img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=Kibana&logoColor=white" alt="Kibana" title="Kibana">
 
 **Разработка**
 <br>
