@@ -53,7 +53,7 @@
 
 ---
 
-## Проекты (пин-карточки)
+## Проекты
 
 <p align="left">
   <a href="https://github.com/sun6r0/kotlin-course">
