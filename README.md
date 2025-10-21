@@ -14,10 +14,10 @@
 
 ### 🛠️ Технологии и инструменты
 
-<p>
-  <!-- иконки стека -->
-  <img src="https://skillicons.dev/icons?i=java,idea,postgres,oracle,git,gitlab,maven,restAssured,postman&perline=12" />
-</p>
+<br>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" title="Java">
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" title="IntelliJ IDEA">
+<img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white" alt="Maven" title="Maven">
 
 **Разработка**
 <br>
