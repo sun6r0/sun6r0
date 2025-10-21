@@ -14,7 +14,6 @@
 
 ### 🛠️ Технологии и инструменты
 
-<p align="center">
 **Разработка**
 <br>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
@@ -46,7 +45,6 @@
 **CI/CD & Version Control**
 <br>
 <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
-</p>
 
 ---
 
