@@ -60,6 +60,6 @@
 
 ### 📈 GitHub статистика
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sun6r0&show_icons=true&theme=default)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sun6r0&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ---
