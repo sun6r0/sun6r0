@@ -1,17 +1,45 @@
-<h2>Hey, let me find some <img src="https://em-content.zobj.net/source/microsoft-teams/363/lady-beetle_1f41e.png" height="23" alt="ladybug"></h2>
+# <имя_пользователя>
 
-<p>My name is Darya and I am a SDET.</a>.</p>
+### QA Automation Engineer (SDET) with 5 years of experience
 
-<h2>Some Tools I Use</h2>
-<p align="center">
-  <img src="https://thvnext.bing.com/th/id/ODF.2HaRnSLPNaJoP-Y…h=32&qlt=90&pcl=fffffa&o=6&cb=12&pid=1.2&ucfimg=1" title="IDEA" alt="IDEA" width="40" height="40"/>
-  <img src="https://rest-assured.io/img/logo-transparent.png" title="RestAssured" alt="RestAssured" width="40" height="40"/>
-  <img src="https://www.flaticon.com/ru/free-icon/java_3291669?term=java&page=1&position=3&origin=search&related_id=3291669" title="Java" alt="Java" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>
-  <img src="https://static-www.elastic.co/v3/assets/bltefdd0b5…5d082a5e97f2babb5af907ee/logo-kibana-32-color.svg" title="Kibana" alt="Kibana" width="40" height="40"/>
-  <img src="https://thvnext.bing.com/th/id/ODF.tv554W-iNtIzSZY…h=32&qlt=91&pcl=fffffa&o=6&cb=12&pid=1.2&ucfimg=1" title="QaTools ТестОпс" alt="ТестОпс" width="40" height="40"/>
-  <img src="https://thvnext.bing.com/th/id/ODF.oiFj4xSQ_9o4cTV…h=32&qlt=94&pcl=fffffa&o=6&cb=12&pid=1.2&ucfimg=1" title="Oracle" alt="Oracle" width="40" height="40"/>
-  <img src="https://thvnext.bing.com/th/id/OSK.89eabd8ddf50554…1&rs=1&qlt=80&o=6&cb=12&dpr=2&pid=SANGAM&ucfimg=1" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>
-</p>
+I am a highly skilled Software Development Engineer in Test (SDET) with 5 years of commercial experience in designing, developing, and maintaining robust test automation frameworks. My passion lies in building reliable and scalable automation solutions to ensure high software quality and accelerate delivery processes.
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+**Programming & Development**
+<br>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
+
+**API Testing & Automation**
+<br>
+<img src="https://img.shields.io/badge/RestAssured-000000?style=for-the-badge&logo=rest-assured&logoColor=white" alt="RestAssured">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+
+**Databases**
+<br>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
+
+**Logging & Monitoring**
+<br>
+<img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white" alt="Kibana">
+
+---
+
+### 📈 GitHub Stats
+
+(Этот раздел можно удалить, если не хотите показывать статистику.
+Для его работы нужен специальный сервис, например, https://github.com/anuraghazra/github-readme-stats)
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=<your_username>&show_icons=true&theme=default)
+
+---
+
+### 📫 How to reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
