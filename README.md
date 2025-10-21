@@ -16,7 +16,7 @@
 
 <p>
   <!-- иконки стека -->
-  <img src="https://skillicons.dev/icons?i=java,idea,postgres,oracle,git,gitlab,maven,,maven,postman&perline=12" />
+  <img src="https://skillicons.dev/icons?i=java,idea,postgres,oracle,git,gitlab,maven,restAssured,postman&perline=12" />
 </p>
 
 **Разработка**
