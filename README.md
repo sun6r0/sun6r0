@@ -1,6 +1,6 @@
 # Darya Shvaiko
 
-### QA Automation Engineer (SDET) with 5 years of experience
+### QA Automation Engineer (SDET)
 
 I am a Software Development Engineer in Test (SDET) with 5 years of commercial experience in designing, developing, and maintaining test automation frameworks. My passion lies in building reliable and scalable automation solutions to ensure high software quality and accelerate delivery processes.
 
