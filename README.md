@@ -1,12 +1,14 @@
 <!-- Заголовок с печатающейся строкой -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=600&center=true&vCenter=true&width=720&lines=SDET+%E2%80%94+Java%2C+RestAssured%2C+JUnit%2C+Allure;API%2FUI%2FDB+testing%2C+CI%2FCD%2C+Reporting;Делаю+тесты+быстрыми%2C+надёжными+и+наглядными" alt="typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=600&center=true&vCenter=true&width=720&lines=SDET+%E2%80%94+Java%2C+RestAssured%2C+JUnit%2C+Allure;API%2FDB+testing%2C+CI%2FCD%2C+Reporting;Делаю+тесты+быстрыми%2C+надёжными+и+наглядными" alt="typing" />
 </p>
 
 <h1 align="center">Привет, я Дарья Швайко — SDET-специалист</h1>
 
 ## Коротко обо мне
-Я Software Development Engineer in Test (SDET) с 5 годами коммерческого опыта. Люблю стабильные пайплайны, чистую архитектуру тестов и понятные графики.
+- 5+ лет коммерческого опыта в тестировании бэкенда
+- Помогаю командам ускорять релизы и доставлять пользователям качественные продукты: организовываю с нуля проекты автотестирования, сокращаю время регрессии, практикую shift-left подход
+- Люблю чистую архитектуру тестов, стабильные пайплайны и понятные отчеты
 
 ---
 
@@ -16,11 +18,14 @@
 <br>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
+<img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" alt="Maven">
 
 **API тестирование**
 <br>
 <img src="https://img.shields.io/badge/RestAssured-000000?style=for-the-badge&logo=rest-assured&logoColor=white" alt="RestAssured">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit5">
+<img src="https://img.shields.io/badge/TestNG-009688?style=for-the-badge&logo=testng&logoColor=white" alt="TestNG">
 
 **БД**
 <br>
@@ -35,6 +40,10 @@
 <br>
 <img src="https://img.shields.io/badge/Allure-FF4F58?style=for-the-badge&logo=allure&logoColor=white" alt="Allure">
 <img src="https://img.shields.io/badge/TestOps-009688?style=for-the-badge&logo=testin&logoColor=white" alt="TestOps">
+
+**CI/CD & Version Control**
+<br>
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
 
 ---
 
@@ -70,14 +79,6 @@
     <img src="https://img.shields.io/badge/Email-YOUR_EMAIL-blue?logo=gmail" alt="email"/>
   </a>
 </p>
-
----
-
-## Коротко обо мне
-- 5+ лет в тестовой автоматизации: **Java** → **API/UI/DB** → **CI/CD** → **Allure-отчёты**  
-- Покрываю **REST** и **event-driven** сценарии, валидирую **Oracle/PostgreSQL**, интегрируюсь с **Allure TestOps**  
-- Люблю метрики, стабильные пайплайны, чистую архитектуру тестов и понятные графики флейковости  
-- Помогаю командам ускорять релизы: снижаю «flake rate», сокращаю время регрессии, повышаю сигнал от отчётов
 
 ---
 
