@@ -60,3 +60,5 @@
 </details>
 
 ![Codewars](https://github.r2v.ch/codewars?user=Sunbr0)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/dshvaiko7)
